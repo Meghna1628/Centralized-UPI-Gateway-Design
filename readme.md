@@ -52,13 +52,4 @@ python aes_encryption.py
 5. UPI Machine forwards the received transaction details to the Bank and displays a success/failure message.
 6. Bank validates and logs the transaction using a blockchain ledger.
 
-## Team Members
-
-| Name                    | ID             |
-|-------------------------|----------------|
-| Meghna Reddy Yadma      | 2021A3PS2762H  |
-| Rishit Polepeddi        | 2022AAPS0311H  |
-| Shashwat Pandey         | 2022A7PS1299H  |
-| Nachiket Kale           | 2021AAPS2880H  |
-| Sai Sushruth Pothireddy | 2021AAPS1680H  |
 
